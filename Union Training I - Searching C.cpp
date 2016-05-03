@@ -1,3 +1,4 @@
+/*^o^*/
 #include<cstdio>
 #include<cstring>
 #include<iostream>
